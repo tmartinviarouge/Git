@@ -24,6 +24,7 @@ int main(int argc, char** argv) {
     cout << "test2"<< endl;
      cout << " coucou" << endl;
      cout <<"salut théo";
+     cout<<"coucou théo ici le colonel moutarde "<<endl;
     return 0;
 }
 
